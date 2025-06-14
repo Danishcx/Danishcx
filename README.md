@@ -1,9 +1,8 @@
 <h1>Hey, I'm Danish 👋</h1>
-
-<p align="center">
+<p>
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
 </p>
-
+<br>
 
 
 🔐 Passionate about Cybersecurity | BCA Student  
@@ -26,7 +25,6 @@
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF5500?style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/Metasploit-005377?style=for-the-badge)
 
----
 
 ### 📊 GitHub Stats:
 
