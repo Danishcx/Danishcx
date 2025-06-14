@@ -1,23 +1,22 @@
-<h1 align="center">Hey, I'm Danish 👋</h1>
+<h1>Hey, I'm Danish 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
 </p>
 
----
+
 
 🔐 Passionate about Cybersecurity | BCA Student  
 🚀 Exploring the world of ethical hacking, automation & SOC  
 📚 Lifelong learner and security enthusiast
 
----
+
 
 ### 🌐 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danish-u-544061230/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danishummera@email.com)
 
----
 
 ### 💻 Tech Stack:
 
