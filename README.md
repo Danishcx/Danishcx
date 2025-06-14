@@ -1,24 +1,18 @@
-<h1>Hey, I'm Danish 👋</h1>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
-</p>
-
-
-
-🔐 Passionate about Cybersecurity | BCA Student  
-🚀 Exploring the world of ethical hacking, automation & SOC  
-📚 Lifelong learner and security enthusiast
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F712&random=false&width=435&lines=Hey%2C+I'm+Danish+)](https://git.io/typing-svg) <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
+<br><br>
+A passionate cybersecurity enthusiast with a BCA degree and a strong foundation in defensive security. I’m on a mission to protect digital assets and continuously learn in the ever-evolving cyber world.  
+🚀 Always open to collaboration, learning opportunities, and sharing knowledge with the community.  
+Let's connect and build a safer digital future together! 🤝
 
 
 
-### 🌐 Connect with Me:
+## 🌐 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danish-u-544061230/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danishummera@email.com)
 
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
