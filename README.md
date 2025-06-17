@@ -25,4 +25,4 @@ Let's connect and build a safer digital future together! 🤝
 ### 📊 GitHub Stats:
 
 ![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danishcx&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danishcx&layout=compact&theme=radical)
+
