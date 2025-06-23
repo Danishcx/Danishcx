@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F712&random=false&width=435&lines=Hey%2C+I'm+Danish+)](https://git.io/typing-svg) 
 <br><br>
-Hey there! I'm Danish, and I'm on the front lines of digital defense. I live and breathe logs, alerts, and packet captures, where silence is often just a prelude to a cyber-storm.
+I'm on the front lines of digital defense. I live and breathe logs, alerts, and packet captures, where silence is often just a prelude to a cyber-storm.
 
 My mission? Outmaneuver threats, keep systems pristine, and enjoy the chase. Defensive security, to me, is all about sharp instincts, deep curiosity, and the thrill of the hunt.
 
